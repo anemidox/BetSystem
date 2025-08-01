@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7WOo7ZIukNmi3Wc0VpL/znNI5rmlL4skvuxiyh5arAZbj57V+7biVxlTj+KikUI8PqZ6Xy3tLYJKT0yP/FfZw==",
+  "success": true,
+  "projectFilePath": "/home/anemidox/Dev/GitHub/BetSystem/BetSystem.csproj",
+  "expectedPackageFiles": [
+    "/home/anemidox/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.18/microsoft.aspnetcore.app.ref.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
